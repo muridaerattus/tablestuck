@@ -1,0 +1,4 @@
+mod village{
+    struct Village{
+    }
+}

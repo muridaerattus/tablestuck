@@ -1,0 +1,4 @@
+mod dungeon{
+    struct Dungeon{
+    }
+}
